@@ -1,0 +1,34 @@
+@charset "utf-8";
+
+
+
+nav {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 0px;
+    background-color: #8A5406;
+    margin-bottom: 1px;
+}
+h1 {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 10px;
+    background-color: #FFFFFF;
+    padding-bottom: 10px;
+}
+
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+footer {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: center;
+}
